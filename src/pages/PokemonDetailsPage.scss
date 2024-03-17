@@ -1,0 +1,23 @@
+.pokemon-details-page {
+    margin: 3rem;
+    align-items: center;
+    justify-content: center;
+
+    .actions {
+        margin: 5px;
+
+        a {
+            margin-top: 1rem;
+            background-color: #04AA6D;
+            border: none;
+            color: white;
+            padding: 8px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            margin-left: 10px;
+            border-radius: 12px;
+        }
+    }
+}

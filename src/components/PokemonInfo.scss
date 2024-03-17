@@ -1,0 +1,23 @@
+.pokemon-detail-columns {
+    display: flex;
+    text-align: center;
+    
+    h2 {
+        margin-top: 10px;
+    }
+    
+    .sprite-container {
+        display: flex;
+        width: 128px;
+        height: 128px;
+        background-color: #EAEAEA;
+        align-items: center;
+        justify-content: center;
+        border-radius: 12px;
+    }
+    
+    .types {
+        display: flex;
+        flex-direction: row;
+    }
+}

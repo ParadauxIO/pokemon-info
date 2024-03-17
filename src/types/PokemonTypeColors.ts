@@ -1,0 +1,21 @@
+export type PokemonTypeColors = {
+    [key: string]: string;
+    normal: string;
+    fire: string;
+    water: string;
+    electric: string;
+    grass: string;
+    bug: string;
+    flying: string;
+    fighting: string;
+    ice: string;
+    rock: string;
+    ground: string;
+    poison: string;
+    psychic: string;
+    ghost: string;
+    dragon: string;
+    dark: string;
+    steel: string;
+    fairy: string;
+};
